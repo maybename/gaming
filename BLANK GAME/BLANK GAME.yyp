@@ -19,7 +19,14 @@
   },
   "name":"BLANK GAME",
   "resources":[
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+<<<<<<< HEAD
+    {"id":{"name":"Note2","path":"notes/Note2/Note2.yy",},},
+=======
+    {"id":{"name":"PetrPavel","path":"objects/PetrPavel/PetrPavel.yy",},},
+>>>>>>> 4a9778ef74a54d554092449e50e41bf2ee0a912d
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
