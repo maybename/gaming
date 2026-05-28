@@ -26,6 +26,7 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
+    {"id":{"name":"door","path":"objects/door/door.yy",},},
     {"id":{"name":"game_manager","path":"objects/game_manager/game_manager.yy",},},
     {"id":{"name":"ground_group","path":"objects/ground_group/ground_group.yy",},},
     {"id":{"name":"ground_group1","path":"objects/ground_group1/ground_group1.yy",},},
@@ -37,10 +38,12 @@
     {"id":{"name":"obj_slope","path":"objects/obj_slope/obj_slope.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"scene_manager","path":"objects/scene_manager/scene_manager.yy",},},
+    {"id":{"name":"fail","path":"rooms/fail/fail.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"musicIntro","path":"sounds/musicIntro/musicIntro.yy",},},
     {"id":{"name":"musicLoop","path":"sounds/musicLoop/musicLoop.yy",},},
+    {"id":{"name":"background","path":"sprites/background/background.yy",},},
     {"id":{"name":"spr_collision_mask","path":"sprites/spr_collision_mask/spr_collision_mask.yy",},},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},
     {"id":{"name":"spr_player_falling","path":"sprites/spr_player_falling/spr_player_falling.yy",},},
@@ -50,13 +53,19 @@
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
     {"id":{"name":"spr_slope","path":"sprites/spr_slope/spr_slope.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"children":[
+        {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+      ],"groupName":"rooms",},
+    {"children":[
+        {"roomId":{"name":"fail","path":"rooms/fail/fail.yy",},},
+      ],"groupName":"engine",},
   ],
   "templateType":"game",
   "TextureGroups":[

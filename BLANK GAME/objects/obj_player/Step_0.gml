@@ -109,9 +109,13 @@ if(obj_player_sprite.sprite_index == spr_player_falling &&  obj_player_sprite.im
 }*/
 
 //GAMEOVER falled out of the world
-if(y > 320){	
-	y = 0
-	room_goto(room_first)
+if(y > 400){
+	if (room_exists(fail)) {
+        room_goto(fail);
+    }
+	else{
+	window_post_message("fail room not found")
+	}
 }
 //dont walk away, jet
 if(x < 20){
