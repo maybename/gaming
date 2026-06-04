@@ -1,3 +1,3 @@
 key_shortcuts()
-if (keyboard_key_press(vk_escape)){
+if (keyboard_key_press(vk_space)){
 }
