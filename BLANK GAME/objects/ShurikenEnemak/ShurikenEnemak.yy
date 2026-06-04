@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"zaporak",
+    "path":"sprites/zaporak/zaporak.yy",
   },
   "spriteMaskId":{
     "name":"spr_collision_mask",
