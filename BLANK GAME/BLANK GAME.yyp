@@ -38,6 +38,8 @@
     {"id":{"name":"obj_slope","path":"objects/obj_slope/obj_slope.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"scene_manager","path":"objects/scene_manager/scene_manager.yy",},},
+    {"id":{"name":"shuriken","path":"objects/shuriken/shuriken.yy",},},
+    {"id":{"name":"ShurikenEnemak","path":"objects/ShurikenEnemak/ShurikenEnemak.yy",},},
     {"id":{"name":"fail","path":"rooms/fail/fail.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
