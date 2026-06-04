@@ -79,7 +79,7 @@ if(onGround) {
 	jumpingTimeout = 10;
 	
 	if(lastX != x && global.horizontal != 0) {
-		obj_player_sprite.sprite_index = global.run ? spr_player_run : spr_player_walk;
+		obj_player_sprite.sprite_index = spr_player_run;
 	} else {
 		obj_player_sprite.sprite_index = spr_player_idle;
 	}
