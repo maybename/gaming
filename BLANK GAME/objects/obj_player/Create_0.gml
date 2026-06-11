@@ -22,3 +22,4 @@ onGround = place_meeting(x, y + 1, ground_group);
 if(!instance_exists(obj_player_sprite)) {
 	instance_create_layer(x, y, "Objects", obj_player_sprite);
 }
+shurikens = 0
