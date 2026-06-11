@@ -58,6 +58,7 @@
     {"id":{"name":"spr_player_run","path":"sprites/spr_player_run/spr_player_run.yy",},},
     {"id":{"name":"spr_slope","path":"sprites/spr_slope/spr_slope.yy",},},
     {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
+    {"id":{"name":"suriken","path":"sprites/suriken/suriken.yy",},},
     {"id":{"name":"wizard_projectile","path":"sprites/wizard_projectile/wizard_projectile.yy",},},
     {"id":{"name":"zaporak","path":"sprites/zaporak/zaporak.yy",},},
     {"id":{"name":"zem","path":"sprites/zem/zem.yy",},},
