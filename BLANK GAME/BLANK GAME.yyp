@@ -40,6 +40,7 @@
     {"id":{"name":"obj_slope","path":"objects/obj_slope/obj_slope.yy",},},
     {"id":{"name":"Object12","path":"objects/Object12/Object12.yy",},},
     {"id":{"name":"scene_manager","path":"objects/scene_manager/scene_manager.yy",},},
+    {"id":{"name":"shuriken_hrac","path":"objects/shuriken_hrac/shuriken_hrac.yy",},},
     {"id":{"name":"shuriken","path":"objects/shuriken/shuriken.yy",},},
     {"id":{"name":"ShurikenEnemak","path":"objects/ShurikenEnemak/ShurikenEnemak.yy",},},
     {"id":{"name":"fail","path":"rooms/fail/fail.yy",},},
