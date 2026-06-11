@@ -125,3 +125,5 @@ if(x > 460){
 	x = 460
 }
 key_shortcuts()
+//if keyboard_check_direct(vk_space) = true and shurikens != 1 and reload = 0
+	
