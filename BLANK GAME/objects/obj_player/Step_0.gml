@@ -110,12 +110,7 @@ if(obj_player_sprite.sprite_index == spr_player_falling &&  obj_player_sprite.im
 
 //GAMEOVER falled out of the world
 if(y > 400){
-	if (room_exists(fail)) {
-        room_goto(fail);
-    }
-	else{
-	window_post_message("fail room not found")
-	}
+	die()
 }
 //dont walk away, jet
 if(x < 20){
@@ -125,3 +120,10 @@ if(x > 460){
 	x = 460
 }
 key_shortcuts()
+
+function die (){
+	x = start_x
+	y = start_y
+	room_restart()
+	room_goto(fail)
+}
