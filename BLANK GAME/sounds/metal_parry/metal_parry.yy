@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"metal_parry",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.0534694,
+  "exportDir":"",
+  "name":"metal_parry",
+  "parent":{
+    "name":"sound",
+    "path":"folders/sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"metal_parry.wav",
+  "volume":1.0,
+}
