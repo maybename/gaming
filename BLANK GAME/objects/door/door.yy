@@ -30,7 +30,7 @@
     {"$GMObjectProperty":"v2","%Name":"target_room","filters":[],"listItems":[],"multiselect":false,"name":"target_room","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"room_x","filters":[],"listItems":[],"multiselect":false,"name":"room_x","rangeEnabled":true,"rangeMax":480.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.0","varType":0,},
     {"$GMObjectProperty":"v2","%Name":"room_y","filters":[],"listItems":[],"multiselect":false,"name":"room_y","rangeEnabled":true,"rangeMax":320.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.0","varType":0,},
-    {"$GMObjectProperty":"v2","%Name":"reset","filters":[],"listItems":[],"multiselect":false,"name":"reset","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"killer","filters":[],"listItems":[],"multiselect":false,"name":"killer","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
