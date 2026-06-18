@@ -37,6 +37,7 @@
     {"name":"inst_74A24D7B","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_1FD01997","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_5614FD43","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_231843B4","path":"rooms/Room2/Room2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -46,6 +47,7 @@
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"door","path":"objects/door/door.yy",},"propertyId":{"name":"room_x","path":"objects/door/door.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"91.8",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"door","path":"objects/door/door.yy",},"propertyId":{"name":"room_y","path":"objects/door/door.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"201.5",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":96.0,},
+        {"$GMRInstance":"v4","%Name":"inst_231843B4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_231843B4","objectId":{"name":"healthbar1","path":"objects/healthbar1/healthbar1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":416.0,"y":256.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_3D99F49F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3D99F49F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"zem","path":"sprites/zem/zem.yy",},"x":224.0,"y":256.0,},
