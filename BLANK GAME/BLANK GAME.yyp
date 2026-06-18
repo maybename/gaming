@@ -34,6 +34,7 @@
     {"id":{"name":"ground_group","path":"objects/ground_group/ground_group.yy",},},
     {"id":{"name":"ground_group1","path":"objects/ground_group1/ground_group1.yy",},},
     {"id":{"name":"ground_group2","path":"objects/ground_group2/ground_group2.yy",},},
+    {"id":{"name":"healthbar1_1","path":"objects/healthbar1_1/healthbar1_1.yy",},},
     {"id":{"name":"healthbar1","path":"objects/healthbar1/healthbar1.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"obj_player_sprite","path":"objects/obj_player_sprite/obj_player_sprite.yy",},},
