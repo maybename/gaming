@@ -35,9 +35,6 @@
     "name":"zaporak",
     "path":"sprites/zaporak/zaporak.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_collision_mask",
-    "path":"sprites/spr_collision_mask/spr_collision_mask.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
