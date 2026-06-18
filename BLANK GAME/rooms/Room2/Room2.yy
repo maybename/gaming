@@ -36,13 +36,13 @@
     {"name":"inst_54B36164","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_74A24D7B","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_1FD01997","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_F9F28ED","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_70F673F4","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_689E884","path":"rooms/Room2/Room2.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"UI","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_F9F28ED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_F9F28ED","objectId":{"name":"healthbar1","path":"objects/healthbar1/healthbar1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":416.0,"y":256.0,},
+        {"$GMRInstance":"v4","%Name":"inst_689E884","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_689E884","objectId":{"name":"healthbar1","path":"objects/healthbar1/healthbar1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":0.5,"x":416.0,"y":256.0,},
       ],"layers":[],"name":"UI","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_3D99F49F","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_3D99F49F","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"zem","path":"sprites/zem/zem.yy",},"x":224.0,"y":256.0,},
