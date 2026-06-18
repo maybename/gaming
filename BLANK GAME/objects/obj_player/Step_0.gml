@@ -126,8 +126,13 @@ if(x > 460){
 }
 key_shortcuts()
 if(keyboard_check_direct(vk_space) && shurikens != 1 && reload == 0){
+	if(lastXDirection > 0){
 	instance_create_depth(self.x+10, self.y-50, -500, shuriken_hrac)
-	reload = 90
+	}
+	else{
+		instance_create_depth(self.x-10, self.y-50, -500, shuriken_hrac)
+	}
+	reload = 60
 }
 if(reload != 0){
 reload = reload - 1

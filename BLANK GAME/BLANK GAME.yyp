@@ -47,6 +47,9 @@
     {"id":{"name":"fail","path":"rooms/fail/fail.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"room3","path":"rooms/room3/room3.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
+    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"musicIntro","path":"sounds/musicIntro/musicIntro.yy",},},
     {"id":{"name":"musicLoop","path":"sounds/musicLoop/musicLoop.yy",},},
@@ -75,6 +78,9 @@
     {"children":[
         {"roomId":{"name":"fail","path":"rooms/fail/fail.yy",},},
       ],"groupName":"engine",},
+    {"roomId":{"name":"room3","path":"rooms/room3/room3.yy",},},
+    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
