@@ -1,0 +1,1 @@
+shurikens = shurikens + 1
