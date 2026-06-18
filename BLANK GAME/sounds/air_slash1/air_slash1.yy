@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"air_slash1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.5381405,
+  "exportDir":"",
+  "name":"air_slash1",
+  "parent":{
+    "name":"sound",
+    "path":"folders/sound.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"air_slash1.wav",
+  "volume":1.0,
+}
